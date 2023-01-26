@@ -6,7 +6,6 @@ import xgboost as xgb
 from sklearn.model_selection import cross_validate
 from sklearn.impute import KNNImputer
 import pickle
-import SeverityModel as SM
 import os
 import random
 import sklearn.metrics as sk_eval
